@@ -1,1 +1,1 @@
-# OpenSourceWorkshop
+# Open Source
